@@ -68,7 +68,7 @@
       cd frontend
       
       # Create React app
-      npx create-react-app .
+      npm install
       ```
   4. Setup Ganache(Local Blockchain)
 
