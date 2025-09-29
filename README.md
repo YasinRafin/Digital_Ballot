@@ -21,8 +21,8 @@
 ## Setup Instructions
 1. Clone the repository
    ```
-    https://github.com/YasinRafin/Digital_Ballot.git
-    cd Django_Task
+    git clone https://github.com/YasinRafin/Digital_Ballot.git
+    cd Digital_ballot
     code .
    ```
 2. Setup Backend
