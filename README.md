@@ -21,7 +21,7 @@
 ## Setup Instructions
 1. Clone the repository
    ```
-    https://github.com/YasinRafin/Django_Task.git
+    https://github.com/YasinRafin/Digital_Ballot.git
     cd Django_Task
     code .
    ```
