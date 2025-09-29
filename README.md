@@ -122,8 +122,6 @@
           - After registration, the voting interface will appear
           - Click on any candidate to cast your vote
           - Vote will be recorded and results updated
-## Some Images of the Application
 
-    <img width="1289" height="922" alt="fig1_1" src="https://github.com/user-attachments/assets/9a7d0087-d71b-4841-a2d3-0ed6b3885aa7" />
 
 
