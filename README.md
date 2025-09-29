@@ -22,7 +22,7 @@
 1. Clone the repository
    ```
     git clone https://github.com/YasinRafin/Digital_Ballot.git
-    cd Digital_ballot
+    cd Digital_Ballot
     code .
    ```
 2. Setup Backend
